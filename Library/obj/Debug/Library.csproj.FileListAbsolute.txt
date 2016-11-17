@@ -24,3 +24,11 @@ C:\Users\moham\Desktop\Code\1\Library\Library\obj\Debug\Library.dll
 C:\Users\moham\Desktop\Code\1\Library\Library\obj\Debug\Library.pdb
 C:\Users\moham\Desktop\Code\1\Library\Library\obj\Debug\Library.Migrations.initiallibraryDbContext.resources
 C:\Users\moham\Desktop\Code\1\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\Newtonsoft.Json.dll
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\System.Net.Http.Formatting.dll
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\System.Web.Http.dll
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\System.Web.Http.WebHost.dll
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\Newtonsoft.Json.xml
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\System.Net.Http.Formatting.xml
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\System.Web.Http.xml
+C:\Users\moham\Desktop\Code\1\Library\Library\bin\System.Web.Http.WebHost.xml
