@@ -91,8 +91,17 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="Index.html" />
     <Content Include="packages.config" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -101,6 +110,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="templates\authors.html" />
+    <Content Include="templates\books.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

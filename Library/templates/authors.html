@@ -1,0 +1,30 @@
+﻿<div>
+    <table class="table table-condensed table-hover">
+        <thead>
+            <tr>
+                <th>
+                    Author Name
+
+                </th>
+                <th>
+                    Available books
+                </th>
+
+            </tr>
+        </thead>
+        <tbody ng-repeat="author in authors">
+            <tr>
+                <td>
+                    {{author.authorName}}
+                </td>
+
+                <td>
+                    {{author.bookCount}}
+                </td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</div>
